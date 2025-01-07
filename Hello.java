@@ -4,7 +4,7 @@ public class Hello
     {
         System.out.println("Hello, world! From: Java :]");
         System.out.println("Changes have been made")
-        System.out.println("Java syntax error");
+        
 
     }
     
